@@ -1,15 +1,3 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
 
 A responsive and customizable Flutter package that offers several types of leaderboard UIs — easy to use and
 perfect for showcasing rankings in apps for gaming, education, fitness, and more
@@ -100,5 +88,10 @@ Row(
 ```
 
 ## Preview
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/99032cdc-669f-409e-b2b8-dbff768f4f89" width="470""/>
+  <img src="https://github.com/user-attachments/assets/47d757af-aed3-4e0f-8101-c9a2abc14e27" width="470""/>
+  <img src="https://github.com/user-attachments/assets/2668d896-e225-444e-850f-2585999417b7" width="470""/>
+</p>
 
 
